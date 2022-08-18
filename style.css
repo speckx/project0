@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+html {
+    font: system-ui, sans-serif;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header, footer {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+img{
+    width: 150px;
+}
